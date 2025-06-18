@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stardust217/stardust217/main/generate%20a%20rectangle.png" width="400"/>
+  <img src="https://i.gifer.com/J4o.gif" alt="Technology GIF">
 </p>
 
 
